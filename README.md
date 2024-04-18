@@ -2,7 +2,11 @@
 
 # Meu Portfólio
 
-Projeto para portfolio com **HTML**, **CSS** e **Javascript**
+Projeto para portfolio utilizando
+
+- **HTML**
+- **CSS**
+- **Javascript**
 
 ## Usando GIT E GITHUB
 
