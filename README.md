@@ -14,3 +14,19 @@ Projeto para portfolio utilizando:
 2. GitHub de forma profissional
 
 Utilizando as _melhores práticas_ de desenvolvimento
+
+> Destacar algo importante
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+
+```js
+function showMessage(string) {
+  return "Seja muito bem-vindo(a)!";
+}
+```
