@@ -2,6 +2,11 @@
 
 # Meu Portfólio
 
+**Lançamentos**
+
+- [x] Site responsivo
+- [ ] Disponível em audio-texto
+
 Projeto para portfolio utilizando:
 
 - **HTML**
