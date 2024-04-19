@@ -1,7 +1,7 @@
 ![logocls](https://static.vecteezy.com/system/resources/thumbnails/018/716/098/small/programmer-line-gradient-icon-vector.jpg)
 
-[Portfólio] (#meu-portfólio) |
-[Git e GitHub] (#usando-git-e-github)
+[Portfólio] (https://github.com/criscontente/site-portfolio?tab=readme-ov-file#meu-portf%C3%B3lio) |
+[Ferramentas] (https://github.com/criscontente/site-portfolio?tab=readme-ov-file#usando-git-e-github)
 
 # Meu Portfólio
 
