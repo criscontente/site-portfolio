@@ -1,5 +1,8 @@
 ![logocls](https://static.vecteezy.com/system/resources/thumbnails/018/716/098/small/programmer-line-gradient-icon-vector.jpg)
 
+[Portfólio] (#meu-portfólio) |
+[Git e GitHub] (#usando-git-e-github)
+
 # Meu Portfólio
 
 **Lançamentos**
@@ -35,3 +38,8 @@ function showMessage(string) {
   return "Seja muito bem-vindo(a)!";
 }
 ```
+
+| Contatos | Redes Sociais |
+| -------- | ------------- |
+| E-mail   | Instagram     |
+| Telefone | WhatsApp      |
